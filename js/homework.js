@@ -103,3 +103,31 @@
 //     console.log(a = 0);
 //     console.log(b= 0);
 // }
+
+
+//if10
+
+// let a = 8;
+// let b = 3;
+// let c = 4;
+
+// if (a <= b && a <= c) {
+//     console.log(  a);
+// } else if (b <= a && b <= c) {
+//     console.log( b);
+// } else {
+//     console.log( c);
+// }
+//if11
+
+// let a = 8;
+// let b = 3;
+// let c = 1;
+
+// if ((a <= b && b <= c ) || (c <= b && b <= c )) {
+//     console.log(  b);
+// } else if ((b <= a && a <= c )||(c <= a && a <= b) ) {
+//     console.log( a);
+// } else  if ((b <= c && c <= a )|| (a <= c && c <= b)){
+//     console.log( c);
+// }
