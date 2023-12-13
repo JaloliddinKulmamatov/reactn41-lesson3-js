@@ -121,10 +121,10 @@
 //if11
 
 // let a = 8;
-// let b = 3;
-// let c = 1;
+// let b = 1;
+// let c = 6;
 
-// if ((a <= b && b <= c ) || (c <= b && b <= c )) {
+// if ((a <= b && b <= c ) || (c <= b && b <= a )) {
 //     console.log(  b);
 // } else if ((b <= a && a <= c )||(c <= a && a <= b) ) {
 //     console.log( a);
